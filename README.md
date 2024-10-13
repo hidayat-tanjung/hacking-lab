@@ -113,5 +113,4 @@ First things first, you really need to understand how things work before start t
     - More Reconnaissance techniques.
     - Active Directory: Lab build and attack vectors.
     - Web application: Enumeration and exploitation using some OWASP Top 10 vulnerabilities and Bug Bounty techniques.
-    - Wireless hacking (WPA)#   h a c k i n g - l a b  
- 
+    - Wireless hacking (WPA)#
